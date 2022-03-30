@@ -54,9 +54,21 @@ a:link {
 	  margin-left: 40px;
 	  margin-right: 50px;
   }
-  li.ex1{
-	  font-size: 20px;
+  .ex2{
+	  font-size: 30px;
 	  margin-top: 15px;
+    margin-left: 100px;
+  }
+  #ex3{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 550px;
+  }
+  dl{
+    margin-left: 550px;
+  }
+  iframe{
+    margin-left: 550px;
   }
   footer{
     font-size: 15px;
